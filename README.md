@@ -27,16 +27,7 @@ pip install pushbullet.py == 0.9.1
 - Finally, create a data frame using the Pandas library, which will be used to store all of the data on an Excel sheet. pd. A list of text and the columns to be produced on an excel sheet are the two inputs that DataFrame accepts. After that, just save them to an excel file using the excel function.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Output: 
+<p align="center">
+<img width="70%"src="https://user-images.githubusercontent.com/69134468/127760382-67f9e235-8f14-4eb9-b82c-8515e0d71cd8.jpg"/></a>
+</p>
