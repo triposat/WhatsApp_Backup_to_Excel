@@ -25,6 +25,7 @@ pip install pushbullet.py == 0.9.1
 - Create a text file to save all of the talks, and then get all of the data from the URL using the urlretrieve function. The URL and the text file in which to store all of the data are both accepted by urlretrieve.
 - Using list slicing, create a loop to extract the date, time, name, and message from the file data. Once they've been extracted, just add them to a list.
 - Finally, create a data frame using the Pandas library, which will be used to store all of the data on an Excel sheet. pd. A list of text and the columns to be produced on an excel sheet are the two inputs that DataFrame accepts. After that, just save them to an excel file using the excel function.
+- Read complete article [**here**](https://www.geeksforgeeks.org/export-whatsapp-chat-history-to-excel-using-python/)
 
 
 ## Output: 
